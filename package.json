@@ -1,0 +1,37 @@
+{
+    "name": "vue-extention-pack-by-bro-jenuel",
+    "displayName": "Vue extension Pack",
+    "description": "This is a extension pack for Deveoping Vue JS Apps.",
+    "version": "1.0.1",
+    "publisher": "MisterJ",
+    "icon": "images/icon.png",
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BroJenuel/CodeExtensionPack.git"
+    },
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "octref.vetur",
+        "xabikos.javascriptsnippets",
+        "christian-kohler.path-intellisense",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "steoates.autoimport",
+        "syler.sass-indented",
+        "mikestead.dotenv",
+        "sibiraj-s.vscode-scss-formatter",
+        "esbenp.prettier-vscode",
+        "wscats.vue",
+        "sdras.vue-vscode-snippets",
+        "dbaeumer.vscode-eslint"
+    ]
+}
