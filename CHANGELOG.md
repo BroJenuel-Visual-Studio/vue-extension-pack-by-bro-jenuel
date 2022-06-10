@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.2]
+change to separate repo
+
 ## [1.0.1]
 ### March 19, 2022
 - added new Extension
